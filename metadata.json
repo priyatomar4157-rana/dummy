@@ -1,0 +1,6 @@
+{
+  "name": "Botanic Glow",
+  "description": "Nature's Secret to Radiant Skin",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
