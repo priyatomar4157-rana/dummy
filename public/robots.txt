@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://botanic-glow.netlify.app/sitemap.xml
+Sitemap:https://dummy-tau-roan.vercel.app/sitemap.xml
