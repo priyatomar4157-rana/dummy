@@ -34,9 +34,11 @@ export default function About() {
   return (
     <>
       <Helmet>
-        <title> Botanic Glow</title>
-        
-<link rel="canonical" href="https://dummy-tau-roan.vercel.app/about" />
+        <title> To empower people with safe, sustainable, and effective skincare </title>
+    <link
+          rel="canonical"
+          href="https://dummy-tau-roan.vercel.app/about"
+        />
         <meta
           name="description"
           content="Learn about Botanic Glow's origin, our philosophy of using clean, natural ingredients, and our journey to create skincare that works with nature."
