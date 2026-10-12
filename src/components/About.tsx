@@ -34,8 +34,9 @@ export default function About() {
   return (
     <>
       <Helmet>
-        <title>About Us | Botanic Glow</title>
-        <link rel="canonical" href="https://botanic-glow.netlify.app/about" />
+        <title> Botanic Glow</title>
+        
+<link rel="canonical" href="https://dummy-tau-roan.vercel.app/about" />
         <meta
           name="description"
           content="Learn about Botanic Glow's origin, our philosophy of using clean, natural ingredients, and our journey to create skincare that works with nature."
